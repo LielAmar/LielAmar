@@ -1,7 +1,7 @@
 # Hi, I am <strong>Liel Amar</strong>.
 
 ## I am a <strong>Software Developer</strong>, <strong>Video Editor</strong> & <strong>Graphic Designer</strong>, <br>with over <strong>5 years</strong> of experience.
- My current project is Minestore, a Proof of Concept Bukkit & Javascript bridge to handle Webstores in Minecraft!
+• My current project is Minestore, a Proof of Concept Bukkit & Javascript bridge to handle Webstores in Minecraft!
 
 ### Contact me
 
@@ -14,28 +14,28 @@
 <br>
 
 ### Languages and Tools:
-[<img align="left" alt="Java" width="26px" src="https://lielamar.com/cdn/svg/java.svg" />]
-[<img align="left" alt="MySQL" width="26px" src="https://lielamar.com/cdn/svg/mysql.svg" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://lielamar.com/cdn/svg/mongodb.svg" />]
-[<img align="left" alt="IntelliJ" width="26px" src="https://lielamar.com/cdn/svg/intellij.svg" />]
-[<img align="left" alt="Python" width="26px" src="https://lielamar.com/cdn/svg/python.svg" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://lielamar.com/cdn/svg/javascript.svg" />]
-[<img align="left" alt="NodeJS" width="26px" src="https://lielamar.com/cdn/svg/nodejs.svg" />]
-[<img align="left" alt="Express" width="26px" src="https://lielamar.com/cdn/svg/express.svg" />]
-[<img align="left" alt="HTML5" width="26px" src="https://lielamar.com/cdn/svg/html5.svg" />]
-[<img align="left" alt="CSS3" width="26px" src="https://lielamar.com/cdn/svg/css3.svg" />]
-[<img align="left" alt="PHP" width="26px" src="https://lielamar.com/cdn/svg/php.svg" />]
-[<img align="left" alt="Atom" width="26px" src="https://lielamar.com/cdn/svg/atom.svg" />]
-[<img align="left" alt="Android" width="26px" src="https://lielamar.com/cdn/svg/android.svg" />]
-[<img align="left" alt="C#" width="26px" src="https://lielamar.com/cdn/svg/csharp.svg" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://lielamar.com/cdn/svg/vscode.svg" />]
-[<img align="left" alt="Linux" width="26px" src="https://lielamar.com/cdn/svg/linux.svg" />]
+<img align="left" alt="Java" width="26px" src="https://lielamar.com/cdn/svg/java.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://lielamar.com/cdn/svg/mysql.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://lielamar.com/cdn/svg/mongodb.svg" />
+<img align="left" alt="IntelliJ" width="26px" src="https://lielamar.com/cdn/svg/intellij.svg" />
+<img align="left" alt="Python" width="26px" src="https://lielamar.com/cdn/svg/python.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://lielamar.com/cdn/svg/javascript.svg" />
+<img align="left" alt="NodeJS" width="26px" src="https://lielamar.com/cdn/svg/nodejs.svg" />
+<img align="left" alt="Express" width="26px" src="https://lielamar.com/cdn/svg/express.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://lielamar.com/cdn/svg/html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://lielamar.com/cdn/svg/css3.svg" />
+<img align="left" alt="PHP" width="26px" src="https://lielamar.com/cdn/svg/php.svg" />
+<img align="left" alt="Atom" width="26px" src="https://lielamar.com/cdn/svg/atom.svg" />
+<img align="left" alt="Android" width="26px" src="https://lielamar.com/cdn/svg/android.svg" />
+<img align="left" alt="C#" width="26px" src="https://lielamar.com/cdn/svg/csharp.svg" />
+<img align="left" alt="VS Code" width="26px" src="https://lielamar.com/cdn/svg/vs.svg" />
+<img align="left" alt="Linux" width="26px" src="https://lielamar.com/cdn/svg/linux.svg" />
 
 <br>
 
-[<img align="left" alt="After Effects" width="26px" src="https://lielamar.com/cdn/svg/aftereffects.svg" />]
-[<img align="left" alt="Premiere Pro" width="26px" src="https://lielamar.com/cdn/svg/premierepro.svg" />]
-[<img align="left" alt="Photoshop" width="26px" src="https://lielamar.com/cdn/svg/photoshop.svg" />]
+<img align="left" alt="After Effects" width="26px" src="https://lielamar.com/cdn/svg/aftereffects.svg" />
+<img align="left" alt="Premiere Pro" width="26px" src="https://lielamar.com/cdn/svg/premierepro.svg" />
+<img align="left" alt="Photoshop" width="26px" src="https://lielamar.com/cdn/svg/photoshop.svg" />
 
 <br>
 
