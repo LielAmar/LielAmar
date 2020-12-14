@@ -42,11 +42,9 @@
 <img align="left" alt="Premiere Pro" width="26px" src="https://lielamar.com/cdn/svg/premierepro.svg" />
 <img align="left" alt="Photoshop" width="26px" src="https://lielamar.com/cdn/svg/photoshop.svg" />
 
-<br>
+<br><br>
 
 ---
-
-<br>
 
 <details>
   <summary>Some Statistics</summary>
