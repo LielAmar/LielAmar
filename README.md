@@ -4,7 +4,7 @@
 
 <b>I am a Software Developer, Video Editor & Graphic Designer, with over 5 years of experience.</b>
 <br>
-• My current project is <b>Minestore</b>, a Proof of Concept project, a Bukkit & Javascript bridge to handle Webstore purchases in Minecraft!
+• My current project is <b>Minestore</b>, a Proof of Concept project, a Bukkit & JavaScript bridge to handle Webstore purchases in Minecraft!
 
 <br>
 
