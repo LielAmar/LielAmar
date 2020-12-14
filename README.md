@@ -6,7 +6,7 @@
 <br>
 • My current project is <b>Minestore</b>, a Proof of Concept project, a Bukkit & JavaScript bridge to handle Webstore purchases in Minecraft!
 
-<br>
+---
 
 ### Contact me
 
@@ -42,7 +42,7 @@
 <img align="left" alt="Premiere Pro" width="26px" src="https://lielamar.com/cdn/svg/premierepro.svg" />
 <img align="left" alt="Photoshop" width="26px" src="https://lielamar.com/cdn/svg/photoshop.svg" />
 
-<br><br>
+<br>
 
 ---
 
