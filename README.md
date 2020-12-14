@@ -1,9 +1,10 @@
-# Hi, I am <strong>Liel Amar</strong>.
+# Hi, I am Liel Amar.
 
 <br>
 
-## I am a <strong>Software Developer</strong>, <strong>Video Editor</strong> & <strong>Graphic Designer</strong>, <br>with over <strong>5 years</strong> of experience.
-• My current project is Minestore, a Proof of Concept Bukkit & Javascript bridge to handle Webstores in Minecraft!
+<b>I am a Software Developer, Video Editor & Graphic Designer, with over 5 years of experience.</b>
+<br>
+• My current project is <b>Minestore</b>, a Proof of Concept project, a Bukkit & Javascript bridge to handle Webstore purchases in Minecraft!
 
 <br>
 
