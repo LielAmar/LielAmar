@@ -1,7 +1,11 @@
 # Hi, I am <strong>Liel Amar</strong>.
 
+<br>
+
 ## I am a <strong>Software Developer</strong>, <strong>Video Editor</strong> & <strong>Graphic Designer</strong>, <br>with over <strong>5 years</strong> of experience.
 • My current project is Minestore, a Proof of Concept Bukkit & Javascript bridge to handle Webstores in Minecraft!
+
+<br>
 
 ### Contact me
 
@@ -11,7 +15,7 @@
 [<img align="left" alt="spigot"   width="22px" src="https://lielamar.com/cdn/svg/spigot.svg" />][spigot]
 [<img align="left" alt="linkedin" width="22px" src="https://lielamar.com/cdn/svg/linkedin.svg" />][linkedin]
 
-<br>
+<br><br>
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://lielamar.com/cdn/svg/java.svg" />
@@ -31,15 +35,17 @@
 <img align="left" alt="VS Code" width="26px" src="https://lielamar.com/cdn/svg/vs.svg" />
 <img align="left" alt="Linux" width="26px" src="https://lielamar.com/cdn/svg/linux.svg" />
 
-<br>
+<br><br>
 
 <img align="left" alt="After Effects" width="26px" src="https://lielamar.com/cdn/svg/aftereffects.svg" />
 <img align="left" alt="Premiere Pro" width="26px" src="https://lielamar.com/cdn/svg/premierepro.svg" />
 <img align="left" alt="Photoshop" width="26px" src="https://lielamar.com/cdn/svg/photoshop.svg" />
 
-<br>
+<br><br>
 
 ---
+
+<br>
 
 <details>
   <summary>Some Statistics</summary>
