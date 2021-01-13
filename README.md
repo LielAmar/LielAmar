@@ -3,8 +3,19 @@
 <br>
 
 <b>I am a Software Developer, Video Editor & Graphic Designer, with over 5 years of experience.</b>
-<br><br>
-• My current project is <b>Minestore</b>, a Proof of Concept project, a Bukkit & NodeJS bridge to handle Webstore purchases in Minecraft!
+<ul>
+  <li>My current project is <b>Minestore</b>, a Proof of Concept project, a Bukkit & NodeJS bridge to handle Webstore purchases in Minecraft!</li>
+</ul>
+<br>
+<b>Some of my most noteable projects are</b>
+<ul>
+  <li><b>Party Games</b><br>A fork of Hypixel's Party Games plugin, including all 26 minigames</li><br>
+  <li><b>Two Factor Authentication</b><br>The most powerful 2FA plugin for Bukkit servers. Including Bungeecord support, MySQL & MongoDB databases and full-customazation</li><br>
+  <li><b>Language Fix</b><br>The best Bukkit plugin for RTL fixes (Hebrew & Arabic). Using a custom algorithm to fix those languages for all Minecraft versions</li><br>
+  <li><b>Treasure of El Dorado</b><br>A fork of Hypixel's Treasure of El Dorado item in UHC, including map navigation, treasure descending and post-reload support</li><br>
+  <li><b>Liel's Utils</b><br>A library with utilities for my plugins, including Packets, Boss Bars, Scoreboards, Math and Text Utilities, Data Structures and more</li><br>
+  <li><b>Liel's Packet Manager</b><br>A library for dealing with packets in Minecraft. Using reflection to support multiple versions</li><br>
+</ul>
 
 ---
 
