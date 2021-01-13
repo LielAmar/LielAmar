@@ -7,7 +7,7 @@
   <li>My current project is <b>Minestore</b>, a Proof of Concept project, a Bukkit & NodeJS bridge to handle Webstore purchases in Minecraft!</li>
 </ul>
 <br>
-<b>Some of my most noteable projects are</b>
+<b>Some of my most notable projects are</b>
 <ul>
   <li><b>Party Games</b><br>A fork of Hypixel's Party Games plugin, including all 26 minigames</li><br>
   <li><b>Two Factor Authentication</b><br>The most powerful 2FA plugin for Bukkit servers. Including Bungeecord support, MySQL & MongoDB databases and full-customazation</li><br>
