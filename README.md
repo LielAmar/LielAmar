@@ -19,37 +19,39 @@
 
 ### Contact me
 
-[<img align="left" alt="website"  width="22px" style="fill: orange;" src="https://lielamar.com/cdn/svg/website.svg" />][website]
-[<img align="left" alt="twitter"  width="22px" src="https://lielamar.com/cdn/svg/twitter.svg" />][twitter]
-[<img align="left" alt="youtube"  width="22px" src="https://lielamar.com/cdn/svg/youtube.svg" />][youtube]
-[<img align="left" alt="spigot"   width="22px" src="https://lielamar.com/cdn/svg/spigot.svg" />][spigot]
-[<img align="left" alt="linkedin" width="22px" src="https://lielamar.com/cdn/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="website"  width="22px" style="fill: orange;" src="https://lielamar.com/images/svg/website.svg" />][website]
+[<img align="left" alt="twitter"  width="22px" src="https://lielamar.com/images/svg/twitter.svg" />][twitter]
+[<img align="left" alt="youtube"  width="22px" src="https://lielamar.com/images/svg/youtube.svg" />][youtube]
+[<img align="left" alt="spigot"   width="22px" src="https://lielamar.com/images/svg/spigot.svg" />][spigot]
+[<img align="left" alt="linkedin" width="22px" src="https://lielamar.com/images/svg/linkedin.svg" />][linkedin]
 
 <br><br>
 
 ### Languages and Tools:
-<img align="left" alt="Java" width="26px" src="https://lielamar.com/cdn/svg/java.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://lielamar.com/cdn/svg/mysql.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://lielamar.com/cdn/svg/mongodb.svg" />
-<img align="left" alt="IntelliJ" width="26px" src="https://lielamar.com/cdn/svg/intellij.svg" />
-<img align="left" alt="Python" width="26px" src="https://lielamar.com/cdn/svg/python.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://lielamar.com/cdn/svg/javascript.svg" />
-<img align="left" alt="NodeJS" width="26px" src="https://lielamar.com/cdn/svg/nodejs.svg" />
-<img align="left" alt="Express" width="26px" src="https://lielamar.com/cdn/svg/express.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://lielamar.com/cdn/svg/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://lielamar.com/cdn/svg/css3.svg" />
-<img align="left" alt="PHP" width="26px" src="https://lielamar.com/cdn/svg/php.svg" />
-<img align="left" alt="Atom" width="26px" src="https://lielamar.com/cdn/svg/atom.svg" />
-<img align="left" alt="Android" width="26px" src="https://lielamar.com/cdn/svg/android.svg" />
-<img align="left" alt="C#" width="26px" src="https://lielamar.com/cdn/svg/csharp.svg" />
-<img align="left" alt="VS Code" width="26px" src="https://lielamar.com/cdn/svg/vs.svg" />
-<img align="left" alt="Linux" width="26px" src="https://lielamar.com/cdn/svg/linux.svg" />
+<img align="left" alt="Java" width="26px" src="https://lielamar.com/images/svg/java.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://lielamar.com/images/svg/mysql.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://lielamar.com/images/svg/mongodb.svg" />
+<img align="left" alt="IntelliJ" width="26px" src="https://lielamar.com/images/svg/intellij.svg" />
+<img align="left" alt="Express" width="26px" src="https://lielamar.com/images/svg/spring.svg" />
+<img align="left" alt="Python" width="26px" src="https://lielamar.com/images/svg/python.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://lielamar.com/images/svg/javascript.svg" />
+<img align="left" alt="NodeJS" width="26px" src="https://lielamar.com/images/svg/nodejs.svg" />
+<img align="left" alt="Express" width="26px" src="https://lielamar.com/images/svg/express.svg" />
+<img align="left" alt="Express" width="26px" src="https://lielamar.com/images/svg/aws.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://lielamar.com/images/svg/html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://lielamar.com/images/svg/css3.svg" />
+<img align="left" alt="PHP" width="26px" src="https://lielamar.com/images/svg/php.svg" />
+<img align="left" alt="Atom" width="26px" src="https://lielamar.com/images/svg/atom.svg" />
+<img align="left" alt="Android" width="26px" src="https://lielamar.com/images/svg/android.svg" />
+<img align="left" alt="C#" width="26px" src="https://lielamar.com/images/svg/csharp.svg" />
+<img align="left" alt="VS Code" width="26px" src="https://lielamar.com/images/svg/vs.svg" />
+<img align="left" alt="Linux" width="26px" src="https://lielamar.com/images/svg/linux.svg" />
 
 <br><br>
 
-<img align="left" alt="After Effects" width="26px" src="https://lielamar.com/cdn/svg/aftereffects.svg" />
-<img align="left" alt="Premiere Pro" width="26px" src="https://lielamar.com/cdn/svg/premierepro.svg" />
-<img align="left" alt="Photoshop" width="26px" src="https://lielamar.com/cdn/svg/photoshop.svg" />
+<img align="left" alt="After Effects" width="26px" src="https://lielamar.com/images/svg/aftereffects.svg" />
+<img align="left" alt="Premiere Pro" width="26px" src="https://lielamar.com/images/svg/premierepro.svg" />
+<img align="left" alt="Photoshop" width="26px" src="https://lielamar.com/images/svg/photoshop.svg" />
 
 <br><br>
 
