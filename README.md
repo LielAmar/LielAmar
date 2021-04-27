@@ -22,7 +22,7 @@
 [<img align="left" alt="website"  width="22px" style="fill: orange;" src="https://lielamar.com/images/svg/website.svg" />][website]
 [<img align="left" alt="twitter"  width="22px" src="https://lielamar.com/images/svg/twitter.svg" />][twitter]
 [<img align="left" alt="youtube"  width="22px" src="https://lielamar.com/images/svg/youtube.svg" />][youtube]
-[<img align="left" alt="spigot"   width="22px" style="fill: yellow" src="https://lielamar.com/images/svg/spigot.svg" />][spigot]
+[<img align="left" alt="spigot"   width="22px" src="https://lielamar.com/images/svg/spigot.svg" />][spigot]
 [<img align="left" alt="linkedin" width="22px" src="https://lielamar.com/images/svg/linkedin.svg" />][linkedin]
 
 <br><br>
