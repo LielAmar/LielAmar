@@ -2,7 +2,7 @@
 
 <br>
 
-<b>I am a Software Developer, Video Editor & Graphic Designer, with over 5 years of experience.</b>
+<b>I am a Software Developer, Video Editor & Graphic Designer, with over 7 years of experience.</b>
 <br>
 <b>Here are some of my most notable projects</b>
 <br><br>
