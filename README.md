@@ -1,6 +1,8 @@
 # Hi, I am Liel Amar.
 
-<br>
+[![Discord](https://img.shields.io/discord/416652224505184276?color=%235865F2&label=Join%20My%20Discord)](https://discord.gg/NzgBrqR)
+[![Spigot](https://img.shields.io/badge/Check%20me%20out%20on-Spigot-yellow)](https://www.spigotmc.org/members/446937/)
+[![Portfolio](https://img.shields.io/badge/Visit%20My-Portfolio-blueviolet)](https://lielamar.com)
 
 <b>I am a Software Developer, Video Editor & Graphic Designer, with over 7 years of experience.</b>
 <br>
