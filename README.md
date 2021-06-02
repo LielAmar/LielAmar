@@ -42,6 +42,7 @@
 <img align="left" alt="React" width="26px" src="https://lielamar.com/svgs/react.svg" />
 <img align="left" alt="Express" width="26px" src="https://lielamar.com/svgs/express.svg" />
 <img align="left" alt="NextJS" width="26px" src="https://lielamar.com/svgs/nextjs.svg" />
+<br><br>
 <img align="left" alt="MySQL" width="26px" src="https://lielamar.com/svgs/mysql.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://lielamar.com/svgs/mongodb.svg" />
 <img align="left" alt="AWS" width="26px" src="https://lielamar.com/svgs/aws.svg" />
