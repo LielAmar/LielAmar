@@ -69,7 +69,7 @@
 
 <details>
   <summary>Some Statistics</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LielAmar&show_icons=true&hide_border=true"/>
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LielAmar&show_icons=true&hide_border=true"/>
 </details>
 
 [website]: https://lielamar.com
