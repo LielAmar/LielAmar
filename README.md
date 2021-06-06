@@ -5,16 +5,18 @@
 [![Portfolio](https://img.shields.io/badge/Visit%20My-Portfolio-blueviolet)](https://lielamar.com)
 
 <b>I am a Software Developer, Video Editor & Graphic Designer, with over 7 years of experience.</b>
-<br>
-<b>Here are some of my most notable projects</b>
-<br><br>
+
+<b>Here are some of my most notable projects:</b>
 <ul>
-  <li><b>Party Games</b><br>A fork of Hypixel's Party Games plugin, including all 26 minigames</li><br>
-  <li><b>Two Factor Authentication</b><br>The most powerful 2FA plugin for Bukkit servers. Including Bungeecord support, MySQL & MongoDB databases and full-customazation</li><br>
-  <li><b>Language Fix</b><br>The best Bukkit plugin for RTL fixes (Hebrew & Arabic). Using a custom algorithm to fix those languages for all Minecraft versions</li><br>
-  <li><b>Treasure of El Dorado</b><br>A fork of Hypixel's Treasure of El Dorado item in UHC, including map navigation, treasure descending and post-reload support</li><br>
-  <li><b>Liel's Utils</b><br>A library with utilities for my plugins, including Packets, Boss Bars, Scoreboards, Math and Text Utilities, Data Structures and more</li><br>
-  <li><b>Liel's Packet Manager</b><br>A library for dealing with packets in Minecraft. Using reflection to support multiple versions</li><br>
+  <li><b>Portfolio</b><br>My Portfolio website written in React, using Next.js</li>
+  <br>
+  <li><b>Minestore</b><br>A proof-of-concept Bukkit plugin - Online Webstores synchronized with Minecraft servers supporting player authentication</li>
+  <br>
+  <li><b>Two Factor Authentication</b><br>The most powerful 2FA plugin for Bukkit servers. Including support for Bungeecord, MySQL & MongoDB and full-customazation</li>
+  <br>
+  <li><b>Language Fix</b><br>The best Bukkit plugin for fixing RTL issues for languages such as Hebrew & Arabic</li>
+  <br>
+  <li><b>Party Games</b><br>A fork of Hypixel's Party Games plugin, including all 26 minigames</li>
 </ul>
 
 ---
@@ -39,8 +41,8 @@
 <img align="left" alt="TypeScript" width="26px" src="https://lielamar.com/svgs/typescript.svg" />
 <img align="left" alt="VSCode" width="26px" src="https://lielamar.com/svgs/vscode.svg" />
 <img align="left" alt="NodeJS" width="26px" src="https://lielamar.com/svgs/nodejs.svg" />
-<img align="left" alt="React" width="26px" src="https://lielamar.com/svgs/react.svg" />
 <img align="left" alt="Express" width="26px" src="https://lielamar.com/svgs/express.svg" />
+<img align="left" alt="React" width="26px" src="https://lielamar.com/svgs/react.svg" />
 <img align="left" alt="NextJS" width="26px" src="https://lielamar.com/svgs/nextjs.svg" />
 <br><br>
 <img align="left" alt="MySQL" width="26px" src="https://lielamar.com/svgs/mysql.svg" />
