@@ -84,12 +84,12 @@ I am also a <b>Freshman</b> at <b>[The Hebrew University of Jerusalem](https://e
 ## 📬 Contact me
 
 
-[<img align="left" alt="website"  width="22px" src="https://lielamar.com/svgs/website.svg" />][website]
-[<img align="left" alt="linkedin" width="22px" src="https://lielamar.com/svgs/linkedin_colored.svg" />][linkedin]
-[<img align="left" alt="twitter"  width="22px" src="https://lielamar.com/svgs/twitter_colored.svg" />][twitter]
-[<img align="left" alt="youtube"  width="22px" src="https://lielamar.com/svgs/youtube_colored.svg" />][youtube]
-[<img align="left" alt="discord"  width="22px" src="https://lielamar.com/svgs/discord.svg" />][discord]
-[<img align="left" alt="npm"      width="22px" src="https://lielamar.com/svgs/npm_colored.svg" />][npm]
+[<img align="left" alt="website"  width="30px" src="https://lielamar.com/svgs/website.svg" />][website]
+[<img align="left" alt="linkedin" width="30px" src="https://lielamar.com/svgs/linkedin_colored.svg" />][linkedin]
+[<img align="left" alt="twitter"  width="30px" src="https://lielamar.com/svgs/twitter_colored.svg" />][twitter]
+[<img align="left" alt="youtube"  width="30px" src="https://lielamar.com/svgs/youtube_colored.svg" />][youtube]
+[<img align="left" alt="discord"  width="30px" src="https://lielamar.com/svgs/discord.svg" />][discord]
+[<img align="left" alt="npm"      width="35px" src="https://lielamar.com/svgs/npm_colored.svg" />][npm]
 
 <br>
 <br>
