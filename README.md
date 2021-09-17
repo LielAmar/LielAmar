@@ -13,34 +13,34 @@ I am also a <b>Freshman</b> at <b>[The Hebrew University of Jerusalem](https://e
 <ul>
   <li>
     <b>📄 My Portfolio</b>
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Portfolio, written in React, using Next.js.
+    <br>My Portfolio, written in React, using Next.js.
   </li>
   <br>
   <li>
     <b>🔐 Two Factor Authentication</b>
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The most powerful 2FA plugin for Bukkit servers.
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Including support for Multi-Server architecture, SQL & Document based database, and full-customazation.
+    <br>The most powerful 2FA plugin for Bukkit servers.
+    <br>Including support for Multi-Server architecture, SQL & Document based database, and full-customazation.
   </li>
   <br>
   <li>
     <b>🔌 Connections Manager</b>
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Java library to work with and sync multiple databases.
+    <br>A Java library to work with and sync multiple databases.
   </li>
   <br>
   <li>
     <b>📣 Language Fix</b>
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The best Bukkit plugin for fixing RTL issues for languages such as Hebrew & Arabic.
+    <br>The best Bukkit plugin for fixing RTL issues for languages such as Hebrew & Arabic.
   </li>
   <br>
   <li>
     <b>🎉 Party Games</b>
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A fork of Hypixel's Party Games plugin, including 26 unique minigames utlizing the Spigot API at its best.
+    <br>A fork of Hypixel's Party Games plugin, including 26 unique minigames utlizing the Spigot API at its best.
   </li>
   <br>
   <li>
     <b>🏬 Minestore</b>
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A proof-of-concept Bukkit plugin - Online Webstores synchronization with Minecraft servers,
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;supporting player authentication pre-purchases.
+    <br>A proof-of-concept Bukkit plugin - Online Webstores synchronization with Minecraft servers,
+    <br>supporting player authentication pre-purchases.
   </li>
 </ul>
 <br>
