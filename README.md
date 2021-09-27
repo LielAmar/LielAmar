@@ -50,7 +50,7 @@ I am also a <b>Freshman</b> at <b>[The Hebrew University of Jerusalem](https://e
   <img alt="Atom"       width="26px" src="https://lielamar.com/svgs/atom.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="C#"         width="26px" src="https://lielamar.com/svgs/csharp.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="VS"         width="26px" src="https://lielamar.com/svgs/vs.svg" />&nbsp;&nbsp;&nbsp;
-  <img alt="Linux"      width="26px" src="https://lielamar.com/svgs/linux.svg" />&nbsp;&nbsp;&nbsp;
+<!--   <img alt="Linux"      width="26px" src="https://lielamar.com/svgs/linux.svg" />&nbsp;&nbsp;&nbsp; -->
 </div>
 
 <br>
