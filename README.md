@@ -80,6 +80,7 @@ I am also a <b>Freshman</b> at <b>[The Hebrew University of Jerusalem](https://e
   <summary>Some Statistics</summary>
   <div align="center">
     <img height="175rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LielAmar&count_private=true&show_icons=true&theme=dark" />
+    &nbsp;&nbsp;
     <img height="175rem" alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LielAmar&theme=dark&layout=compact&langs_count=6" />
   </div>
 </details>
