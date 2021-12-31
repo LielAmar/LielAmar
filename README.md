@@ -2,7 +2,7 @@
 Hey, I am <b>Liel Amar</b>!
 
 I am a <b>Software Developer</b>, <b>Video Editor</b> & <b>Graphic Designer</b>, with over <b>7 years</b> of experience!<br>
-I am also a <b>Freshman</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, studying Bachelor's <b>Computer Science and Math</b>.
+I am also a <b>Freshman</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, studying Bachelor's <b>Computer Science</b>.
 
 
 ## 📝 Notable Projects
@@ -17,10 +17,10 @@ I am also a <b>Freshman</b> at <b>[The Hebrew University of Jerusalem](https://e
     <br>A Java library to work with and sync multiple databases.
     <br><br>
 - 🌐 [**Language Fix**](https://github.com/LielAmar/LanguageFix)
-    <br>The best Bukkit plugin for fixing RTL issues for languages such as Hebrew & Arabic.
+    <br>An advanced Bukkit plugin for fixing RTL issues for languages such as Hebrew & Arabic.
     <br><br>
 - ⚙ [**Liels Utils**](https://github.com/LielAmar/LielsUtils)
-    <br>A Java Library containing containing several techniques to make dealing with the language and with the Bukkit API.
+    <br>A Java Library containing several techniques to make dealing with the language and with the Bukkit API.
     <br><br>
 - 🎉 [**Party Games**](https://github.com/LielAmar/Party-Games)
     <br>A fork of Hypixel's Party Games plugin, including 26 unique minigames utlizing the Spigot API at its best.
