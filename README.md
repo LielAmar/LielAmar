@@ -6,7 +6,7 @@ I am also a <b>Freshman</b> at <b>[The Hebrew University of Jerusalem](https://e
 
 
 ## 📝 Notable Projects
-- 📁 [**My Portfolio**](https://lielamar.com)
+- 📁 [**My Portfolio**](https://github.com/LielAmar/portfolio)
     <br>My Portfolio, written in React, using Next.js.
     <br><br>
 - 🔐 [**Two Factor Authentication**](https://github.com/LielAmar/2FA)
