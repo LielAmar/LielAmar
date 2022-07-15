@@ -30,23 +30,23 @@ I am also a <b>Freshman</b> at <b>[The Hebrew University of Jerusalem](https://e
 
 ## 🔨 Languages and Tools
 <div align="left">
-    <a href=""><img alt="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
-    <a href=""><img alt="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <a href=""><img alt="NodeJS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
-    <a href=""><img alt="C" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a>
-    <a href=""><img alt="C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></a>
-    <a href=""><img alt="C#" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></a>
-    <a href=""><img alt="Javascript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-    <a href=""><img alt="Typescript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
-    <a href=""><img alt="HTML5" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
-    <a href=""><img alt="CSS3" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
-    <a href=""><img alt="MySQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
-    <a href=""><img alt="MongoDB" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
-    <a href=""><img alt="Redis" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/></a>
-    <a href=""><img alt="GIT" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
-    <a href=""><img alt="Firebase" width="40" height="40" src="https://raw.github.com/LielAmar/Portfolio/master/public/svgs/firebase.svg"/></a>
-    <a href=""><img alt="GCP" width="40" height="40" src="https://raw.github.com/LielAmar/Portfolio/master/public/svgs/gcp.svg"/></a>
-    <a href=""><img alt="AWS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/></a>
+    <a href="https://www.java.com/en/"><img alt="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
+    <a href="https://www.python.org/"><img alt="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)#:~:text=C%20(%2F%CB%88si%CB%90%2F,capabilities%20of%20the%20targeted%20CPUs."><img alt="C" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></a>
+    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img alt="C#" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></a>
+    <a href="https://nodejs.org/en/"><img alt="NodeJS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="Javascript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+    <a href="https://www.typescriptlang.org/"><img alt="Typescript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
+    <a href="https://en.wikipedia.org/wiki/HTML5"><img alt="HTML5" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+    <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS3" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
+    <a href="https://redis.io/"><img alt="Redis" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/></a>
+    <a href="https://git-scm.com/"><img alt="GIT" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
+    <a href="https://firebase.google.com/"><img alt="Firebase" width="40" height="40" src="https://raw.github.com/LielAmar/Portfolio/master/public/svgs/firebase.svg"/></a>
+    <a href="https://cloud.google.com/"><img alt="GCP" width="40" height="40" src="https://raw.github.com/LielAmar/Portfolio/master/public/svgs/gcp.svg"/></a>
+    <a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/></a>
 </div>
 
 ## 📬 Contact me
@@ -70,49 +70,3 @@ I am also a <b>Freshman</b> at <b>[The Hebrew University of Jerusalem](https://e
     <img height="175rem" alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LielAmar&theme=dark&layout=compact&langs_count=6" />&nbsp;&nbsp;&nbsp;
   </div>
 </details>
-
-
-<!--  Links and images -->
-[discord]: https://discord.gg/NzgBrqR
-[website]: https://lielamar.com
-[twitter]: https://twitter.com/IamLielAmar
-[youtube]: https://www.youtube.com/c/LielAmar
-[spigot]: https://www.spigotmc.org/members/446937/
-[linkedin]: https://www.linkedin.com/in/liel-amar/
-[npm]: https://www.npmjs.com/~lielamar
-
-[java-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/java.svg
-[intellij-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/intellij.svg
-[spring-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/spring.svg
-[android-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/android.svg
-[javascript-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/javascript.svg
-[typescript-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/typescript.svg
-[vscode-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/vscode.svg
-[nodejs-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/nodejs.svg
-[express-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/express.svg
-[react-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/react.svg
-[nextjs-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/nextjs.svg
-[mysql-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/mysql.svg
-[mongodb-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/mongodb.svg
-[aws-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/aws.svg
-[gcp-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/gcp.svg
-[python-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/python.svg
-[html5-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/html5.svg
-[css3-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/css3.svg
-[php-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/php.svg
-[atom-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/atom.svg
-[csharp-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/csharp.svg
-[vs-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/vs.svg
-[linux-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/linux.svg
-
-[aftereffects-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/aftereffects.svg
-[premierepro-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/premierepro.svg
-[photoshop-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/photoshop.svg
-
-[website-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/website.svg
-[linkedin_colored-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/linkedin_colored.svg
-[twitter_colored-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/twitter_colored.svg
-[youtube_colored-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/youtube_colored.svg
-[npm_colored-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/npm_colored.svg
-[discord-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/discord.svg
-[spigot_colored-svg]: https://raw.githubusercontent.com/LielAmar/Portfolio/master/public/svgs/spigot_colored.svg
