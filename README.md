@@ -1,5 +1,5 @@
 # 👨🏻‍💻 About Me
-Hey, I am <b>Liel Amar</b>!
+Hey, I am <b>Liel Amar</b> 👋🏽
 
 I am a <b>Software Developer</b>, <b>Video Editor</b> & <b>Graphic Designer</b>, with over <b>8 years</b> of experience!<br>
 I am also a <b>Sophomore</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, studying Bachelor's <b>Computer Science</b> and <b>Game Development</b>.
@@ -24,9 +24,6 @@ I am also a <b>Sophomore</b> at <b>[The Hebrew University of Jerusalem](https://
     <br><br>
 - 🎉 [**Party Games**](https://github.com/LielAmar/Party-Games)
     <br>A fork of Hypixel's Party Games plugin, including 26 unique minigames utlizing the Spigot API at its best.
-    <br><br>
-- 🏬 [**Minestore**](https://github.com/LielAmar/Minestore)
-    <br>A proof-of-concept Bukkit plugin - Online Webstores synchronization with Minecraft servers, supporting player authentication pre-purchases.
 
 ## 🔨 Languages and Tools
 <div align="left">
