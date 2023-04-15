@@ -23,7 +23,7 @@ I am also a <b>Sophomore</b> at <b>[The Hebrew University of Jerusalem](https://
     <br>A Java Library containing several techniques to help dealing with the language and with the Bukkit API.
     <br><br>
 - 🎉 [**Party Games**](https://github.com/LielAmar/Party-Games)
-    <br>A fork of Hypixel's Party Games plugin, including 26 unique minigames utlizing the Spigot API at its best.
+    <br>A clone of Hypixel's Party Games plugin, including 26 unique minigames utlizing the Spigot API at its best.
 
 ## 🔨 Languages and Tools
 <div align="left">
