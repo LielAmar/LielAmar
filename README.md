@@ -5,7 +5,7 @@ I am a <b>Software Developer</b>, <b>Video Editor</b> & <b>Graphic Designer</b>,
 I am also a <b>Junior</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, studying Bachelor's <b>Computer Science</b>.
 
 
-## 📝 Notable Projects
+## 📝 Some of my Projects
 - 📁 [**My Portfolio**](https://github.com/LielAmar/portfolio)
     <br>My Portfolio, written in React, using Next.js.
     <br><br>
@@ -13,17 +13,11 @@ I am also a <b>Junior</b> at <b>[The Hebrew University of Jerusalem](https://en.
     <br>The most powerful 2FA plugin for Bukkit servers.
     <br>Including support for Multi-Server architecture, SQL & Document based database, and full-customazation.
     <br><br>
-- 🔌 [**Connections Manager**](https://github.com/LielAmar/Connections-Manager)
-    <br>A Java library to work with and sync multiple databases.
-    <br><br>
 - 🌐 [**Language Fix**](https://github.com/LielAmar/LanguageFix)
     <br>An advanced Bukkit plugin for fixing RTL issues for languages such as Hebrew & Arabic.
     <br><br>
-- ⚙ [**Liels Utils**](https://github.com/LielAmar/LielsUtils)
-    <br>A Java Library containing several techniques to help dealing with the language and with the Bukkit API.
-    <br><br>
 - 🎉 [**Party Games**](https://github.com/LielAmar/Party-Games)
-    <br>A clone of Hypixel's Party Games plugin, including 26 unique minigames utlizing the Spigot API at its best.
+    <br>A clone of Hypixel's Party Games plugin, including 26 unique minigames utilizing the Spigot API at its best.
 
 ## 🔨 Languages and Tools
 <div align="left">
