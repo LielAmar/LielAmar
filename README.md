@@ -2,7 +2,7 @@
 Hey, I am <b>Liel Amar</b> 👋🏽
 
 I am a <b>Software Developer</b>, <b>Video Editor</b> & <b>Graphic Designer</b>, with over <b>7 years</b> of experience!<br>
-I am also a <b>Junior</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, studying Bachelor's <b>Computer Science</b>.
+I am also a <b>Senior</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, studying Bachelor's <b>Computer Science</b>.
 
 
 ## 📝 Some of my Projects
@@ -18,6 +18,9 @@ I am also a <b>Junior</b> at <b>[The Hebrew University of Jerusalem](https://en.
     <br><br>
 - 🎉 [**Party Games**](https://github.com/LielAmar/Party-Games)
     <br>A clone of Hypixel's Party Games plugin, including 26 unique minigames utilizing the Spigot API at its best.
+    <br><br>
+- 🤝 [**Torrent Client**](https://github.com/LielAmar/torrent-client)
+    <br>A torrent client that connects multiple peers, transfer pieces of a given file and re-constructs it using a P2P protocol
 
 ## 🔨 Languages and Tools
 <div align="left">
