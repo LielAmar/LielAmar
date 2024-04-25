@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-# 👨🏻‍💻 About Me
+# 👨🏻‍💻 About me
 Hey, I am <b>Liel Amar</b> 👋🏽
 
 I am a <b>Software Developer</b>, <b>Video Editor</b> & <b>Graphic Designer</b>, with over <b>7 years</b> of experience!<br>
