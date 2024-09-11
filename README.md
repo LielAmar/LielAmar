@@ -4,7 +4,7 @@
 Hey, I am <b>Liel Amar</b> 👋🏽
 
 I am a <b>Software Developer</b>, <b>Video Editor</b> & <b>Graphic Designer</b>, with over <b>7 years</b> of experience!<br>
-I am also a <b>Senior</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, studying Bachelor's <b>Computer Science</b>.
+I am also a <b>First Year</b> student at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, pursuing my Masters in <b>Computer Science</b>.
 
 
 ## 📝 Some of my Projects
