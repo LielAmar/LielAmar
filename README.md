@@ -56,13 +56,13 @@ I finished my <b>Bachelor's</b> from <b>[The Hebrew University of Jerusalem](htt
 
 ## 📬 Contact me
 <div align="left">
-    <a href="https://lielamar.com"><img alt="Portfolio" width="40" height="40" src="https://raw.github.com/LielAmar/Portfolio/master/public/images/logo.webp"/></a>
+    <a href="https://lielamar.com"><img alt="Portfolio" width="40" height="40" src="https://raw.github.com/LielAmar/Portfolio/master/public/images/png/me2.png"/></a>
     <a href="https://linkedin.com/in/liel-amar/"><img alt="LinkedIn" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
     <a href="https://twitter.com/IamLielAmar"><img alt="Twitter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"/></a>
-    <a href="https://discord.gg/NzgBrqR"><img alt="Discord" width="40" height="40" src="https://raw.github.com/LielAmar/Portfolio/master/public/svgs/discord.svg"/></a>
-    <a href="https://youtube.com/c/LielAmar"><img alt="Youtube" width="40" height="40" src="https://raw.github.com/LielAmar/Portfolio/master/public/svgs/youtube_colored.svg"/></a>
+    <a href="https://discord.gg/NzgBrqR"><img alt="Discord" width="40" height="40" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/></a>
+    <a href="https://youtube.com/c/LielAmar"><img alt="Youtube" width="40" height="40" src="https://www.svgrepo.com/show/13671/youtube.svg"/></a>
     <a href="https://npmjs.com/~lielamar"><img alt="NPM" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/></a>
-    <a href="https://spigotmc.org/members/446937/"> <img alt="spigot" width="60" height="40" src="https://raw.github.com/LielAmar/Portfolio/master/public/images/spigot.png"/></a>
+    <a href="https://spigotmc.org/members/446937/"> <img alt="spigot" width="40" height="40" src="https://avatars.githubusercontent.com/u/4350249?s=280&v=4"/></a>
 </div>
 
 
