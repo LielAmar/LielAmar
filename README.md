@@ -16,13 +16,13 @@ I finished my <b>Bachelor's</b> from <b>[The Hebrew University of Jerusalem](htt
     <br>Including support for Multi-Server architecture, SQL & Document based database, and full-customazation.
     <br><br>
 - 🌐 [**Language Fix**](https://github.com/LielAmar/LanguageFix)
-    <br>An advanced Bukkit plugin for fixing RTL issues for languages such as Hebrew & Arabic.
+    <br>A Bukkit plugin for fixing RTL issues for languages such as Hebrew & Arabic.
     <br><br>
-- 🎉 [**Party Games**](https://github.com/LielAmar/Party-Games)
-    <br>A clone of Hypixel's Party Games plugin, including 26 unique minigames utilizing the Spigot API at its best.
+- 🎉 [**Defeating Frogger with AI**](https://github.com/LielAmar/Defeating-frogger-with-ai)
+    <br>A recreation of the classic Frogger game, with two AI agents, based on Genetic Algorithms (NEAT) and Reinforcement Learning (DDQN), which beat it.
     <br><br>
 - 🤝 [**Torrent Client**](https://github.com/LielAmar/torrent-client)
-    <br>A torrent client that connects multiple peers, transfer pieces of a given file and re-constructs it using a P2P protocol
+    <br>A torrent client that connects multiple peers, transfers pieces of a given file, and re-constructs it using a P2P protocol
 
 ## 🔨 Languages and Tools
 <div align="left">
