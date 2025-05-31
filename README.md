@@ -15,6 +15,10 @@ I finished my <b>Bachelor's</b> from <b>[The Hebrew University of Jerusalem](htt
     <br>The most powerful 2FA plugin for Bukkit servers.
     <br>Including support for Multi-Server architecture, SQL & Document based database, and full-customazation.
     <br><br>
+- 👬 [**DoubleYou**](https://github.com/doubleyou-w)
+    <br>A winning project for the 2025 HUJI Hackathon.
+    <br>A self-hosted LLM mobile application with individual contextual data pulled from different apps & services.
+    <br><br>
 - 🌐 [**Language Fix**](https://github.com/LielAmar/LanguageFix)
     <br>A Bukkit plugin for fixing RTL issues for languages such as Hebrew & Arabic.
     <br><br>
