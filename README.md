@@ -3,9 +3,10 @@
 # 👨🏻‍💻 About me
 Hey, I am <b>Liel Amar</b> 👋🏽
 
-I am a <b>Software Developer</b>, <b>Video Editor</b> & <b>Graphic Designer</b>, with over <b>7 years</b> of experience!<br>
-I finished my <b>Bachelor's</b> from <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b> with honors, and now I'm pursuing my <b>Master's</b> in <b>Computer Science</b>.
+I’ve been building my own and others’ ideas since I was 13, and I’m passionate about software design & architecture. My expertise lies in bringing product visions to life, mostly through mobile and web apps.
+I have <b>3 years</b> of professional experience, working in both established companies and startups. I also do freelance work and consultant to various clients.
 
+I finished my <b>Bachelor's</b> from <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b> with honors, and now I'm pursuing my <b>Master's</b> in <b>Computer Science</b>. I research Weight Space Learning under the supervision of Prof. Yedid Hoshen.
 
 ## 📝 Some of my Projects
 - 📁 [**My Portfolio**](https://github.com/LielAmar/portfolio)
