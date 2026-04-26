@@ -9,9 +9,9 @@ I have <b>3 years</b> of professional experience. I have also co-founded [KedAI]
 I completed my <b>Bachelor's</b> degree at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b> with honors, and now I'm pursuing my <b>Master's</b> in <b>Computer Science</b>.
 
 ## 📝 Some of my Projects
-- 📁 [**My Portfolio**](https://github.com/LielAmar/portfolio)
+<!--- 📁 [**My Portfolio**](https://github.com/LielAmar/portfolio)
     <br>My Portfolio, written in React, using Next.js.
-    <br><br>
+    <br><br> --->
 - 🔐 [**Two Factor Authentication**](https://github.com/LielAmar/2FA)
     <br>The most powerful 2FA plugin for Bukkit servers.
     <br>Including support for Multi-Server architecture, SQL & Document based database, and full-customazation.
