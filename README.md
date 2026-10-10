@@ -38,19 +38,24 @@ I completed my <b>Bachelor's</b> degree at <b>[The Hebrew University of Jerusale
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/></a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/></a>
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img alt="C#" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/></a>
+    <a href="https://go.dev/"><img alt="Go" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/></a>
     <a href="https://en.wikipedia.org/wiki/HTML5"><img alt="HTML5" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/></a>
     <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS3" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/></a>
     <br>
     <a href="https://git-scm.com/"><img alt="GIT" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></a>
     <a href="https://nodejs.org/en/"><img alt="NodeJS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/></a>
     <a href="https://www.docker.com/"><img alt="Docker" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/></a>
+    <a href="https://kubernetes.io/"><img alt="Kubernetes" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/></a>
+    <a href="https://helm.sh/"><img alt="Helm" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg"/></a>
     <a href="https://numpy.org/"><img alt="Numpy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/></a>
     <a href="https://pandas.pydata.org/"><img alt="Pandas" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/></a>
     <a href="https://firebase.google.com/"><img alt="Firebase" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/></a>
     <a href="https://cloud.google.com/"><img alt="GCP" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/></a>
     <a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></a>
+    <a href="https://www.terraform.io/"><img alt="Terraform" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/></a>
     <a href="https://www.jenkins.io/"><img alt="Jenkins" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"/></a>
     <a href="https://www.mysql.com/"><img alt="MySQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/></a>
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/></a>
     <a href="https://www.mongodb.com/"><img alt="MongoDB" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/></a>
     <a href="https://redis.io/"><img alt="Redis" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/></a>
     <a href="https://react.dev/"><img alt="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/></a>
