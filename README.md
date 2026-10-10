@@ -35,10 +35,10 @@ I completed my <b>Bachelor's</b> degree at <b>[The Hebrew University of Jerusale
     <a href="https://www.python.org/"><img alt="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="Javascript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/></a>
     <a href="https://www.typescriptlang.org/"><img alt="Typescript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/></a>
+    <a href="https://go.dev/"><img alt="Go" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/></a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/></a>
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img alt="C#" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/></a>
-    <a href="https://go.dev/"><img alt="Go" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/></a>
     <a href="https://en.wikipedia.org/wiki/HTML5"><img alt="HTML5" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/></a>
     <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS3" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/></a>
     <br>
@@ -66,7 +66,7 @@ I completed my <b>Bachelor's</b> degree at <b>[The Hebrew University of Jerusale
 
 ## 📬 Contact me
 <div align="left">
-    <a href="https://lielamar.com"><img alt="Portfolio" width="40" height="40" src="https://raw.github.com/LielAmar/Portfolio/master/public/images/png/me2.png"/></a>
+    <a href="https://lielamar.com"><img alt="Portfolio" width="40" height="40" src="https://raw.githubusercontent.com/LielAmar/Portfolio/refs/heads/master/public/favicon.ico?token=GHSAT0AAAAAAEL63GYHY6AYC3GAM34AKKJS2WK3RKQ"/></a>
     <a href="https://linkedin.com/in/liel-amar/"><img alt="LinkedIn" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
     <a href="https://twitter.com/IamLielAmar"><img alt="Twitter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"/></a>
     <a href="https://discord.gg/NzgBrqR"><img alt="Discord" width="40" height="40" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/></a>
